@@ -16,7 +16,7 @@ int main(){
     int num1=2,num2=5;
 
     //pass  to addreess of num 1 num2 to unctions
-    swap(&num1,&num2); 
+    swap(&num1,&num2); //pass by value
     printf("\nnum1 = %d",num1);
     printf("\nnum2 = %d",num2);
 
