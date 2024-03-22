@@ -15,7 +15,7 @@ int main(){
     int arr[]={1,2,3,5,6};
     //sort an array
     //0th index start a loop till end
-    i=1;i<l-1;i++
+    
 
     //sizeof(Array_name): It is an operator that returns the size of the entire array in bytes.
     //sizeof(Array_name[index]): It returns the size of a single element in the array in bytes.
