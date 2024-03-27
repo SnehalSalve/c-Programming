@@ -6,7 +6,8 @@ int main(){
 
     //to write a conetct in a file use fprintf()
     fprintf(ptr,"This is new line in create.txt file");
-
+    fclose(ptr);
+    
     //to append a content in  a file use 'a'
     ptr = fopen("append.txt","a");
 

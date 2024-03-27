@@ -49,6 +49,7 @@ void main(){
 
 void printBoard()
 {
+    
     //system("clear"); //if dont want to display again n again board use to clear screen using this system(clear) 
     printf("\n\n");
     printf("\n\t----Tic Tac toe---\n\n");

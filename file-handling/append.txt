@@ -10,3 +10,5 @@ hello this is new line of append.txt
 --------
 ____________________
 ++++++++++++++++++++++++
+hello
+this is new line
