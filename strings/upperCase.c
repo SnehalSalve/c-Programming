@@ -18,7 +18,7 @@ int upperCase(char *str){
 
 int main(){
     char str[]="Hello, My Name is Snehal, I am from Pune.";
-    int total;
+    int total,n;
     //create a function of uppercase
     //call here
     total=upperCase(str);
