@@ -45,28 +45,24 @@ int main()
 
         switch (choice)
         {
-        case 1:
-            add();
-            break;
-
-        case 1:
-            add();
-            break;
-        case 2:
-            add();
-            break;
-        case 3:
-            add();
-            break;
-        case 4:
-            add();
-            break;
-        case 5:
-            add();
-            break;
-        default:
-            printf("\n invalied choice");
-            break;
+            case 1:
+                add();
+                break;
+            case 2:
+                add();
+                break;
+            case 3:
+                add();
+                break;
+            case 4:
+                add();
+                break;
+            case 5:
+                add();
+                break;
+            default:
+                printf("\n invalied choice");
+                break;
         }
     } while (choice != 5);
 
