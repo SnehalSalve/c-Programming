@@ -71,8 +71,8 @@ int main()
     printf("\nEnter your choice \ns for stone \np for paper \nz for scissor\n");
     scanf("%c", &user);
     
-    printf("\nvalue of %c",computer);
-
+    printf("\ncomputer's choice - %c",computer);
+    printf("\nyour's choice - %c",computer);
     int result = game(user, computer);
 
     if (result == -1)
