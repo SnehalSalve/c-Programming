@@ -1,7 +1,12 @@
+#include<stdio.h>
+void add(){
+	printf("\n your resgistraion is done");
+}
+
 int main(){     // MAIN FUNCTION
 	int i=0;
 
-	time_t t;
+	int t;
 	time(&t);
 	char customername;
 	char choice;
